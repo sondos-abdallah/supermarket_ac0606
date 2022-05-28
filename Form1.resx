@@ -117,35 +117,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="avocado-11526067324c2ctzkvu8d" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\images\avocado-11526067324c2ctzkvu8d.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="png-clipart-fruit-sliced-watermelon" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\images\png-clipart-fruit-sliced-watermelon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="MSUnitTest" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\MSUnitTest.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="png-transparent-banana-juice-cavendish-banana-cooking-banana-fruit-food-saba-banana-banana-cake-flavor" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\images\png-transparent-banana-juice-cavendish-banana-cooking-banana-fruit-food-saba-banana-banana-cake-flavor.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="png-clipart-nectar-juice-dried-fruit-peaches-and-cream-juice-natural-foods-dried-fruit" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\images\png-clipart-nectar-juice-dried-fruit-peaches-and-cream-juice-natural-foods-dried-fruit.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="png-clipart-orange-fruit-two-slices-and-three-oranges-food-fruits" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\images\png-clipart-orange-fruit-two-slices-and-three-oranges-food-fruits.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="380-3807920_pineapple-png" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\images\380-3807920_pineapple-png.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="106-1068424_kiwi-transparent-kiwi-png" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\images\106-1068424_kiwi-transparent-kiwi-png.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Apple-Fruit-Transparent-PNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\images\Apple-Fruit-Transparent-PNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="fresh-fruits-background-citruses-apple-kiwi-grape-white-table-top-down-frame-copy-space-178267138" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\images\fresh-fruits-background-citruses-apple-kiwi-grape-white-table-top-down-frame-copy-space-178267138.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
 </root>
